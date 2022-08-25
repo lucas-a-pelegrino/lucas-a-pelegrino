@@ -9,11 +9,10 @@ With around six years of experience with software development, I pride myself on
 
 ## What am I planning to do next?
 
-- :snake: Learn Python/Go;
+- :computer: Learn Go;
 - :cloud: Improve my knowledge with Terraform;
-- :dizzy: Learn Swift as a hobby;
 
 ##
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucas-a-pelegrino&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=lucas-a-pelegrino&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
