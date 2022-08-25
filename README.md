@@ -4,13 +4,13 @@ With around six years of experience with software development, I pride myself on
 
 ## What am I doing recently?
 
-- :computer: Currently I am working mainly with NodeJS and ReactJS, building amazing products!
-- :cloud: Improving my knowledge with **Amazon Web Services**, preparing to take the **DevOps and Solutions Architect certifications**;
+- Currently building and shipping amazing products at @ioasys! :rocket:
+- Improving my knowledge with **Amazon Web Services**, preparing to take the **DevOps and Solutions Architect certifications**; :cloud:
 
 ## What am I planning to do next?
 
-- :computer: Learn Go;
-- :cloud: Improve my knowledge with Terraform;
+- Learn Go;
+- Improve my knowledge with Terraform;
 
 ##
 
