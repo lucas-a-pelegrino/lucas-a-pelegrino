@@ -15,3 +15,4 @@ Backend software engineer with six years of experience, having developed over tw
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=lucas-a-pelegrino&count_private=true&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
+[![calendly](https://img.shields.io/badge/calendly-lets%20chat-blue?style=for-the-badge)](https://calendly.com/lucas-pelegrino/30min)
