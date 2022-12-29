@@ -1,15 +1,16 @@
 ## Sup!
 
-Backend software engineer with six years of experience, having developed over twenty high-quality applications. Excellent problem-solving skills, teamwork driven, and I'm always aiming to do my best work
+Backend software engineer with six years of experience, having developed over twenty high-quality applications. Excellent problem-solving skills, teamwork driven, and I'm always aiming to do my best work.
 
 ## What am I doing recently?
 
-- Currently building amazing products! :rocket:
+- 💻 Currently working as Sr. Software Engineer at [https://nomadglobal.com](Nomad)
 - Learning Go!
 
-## What am I planning to do next?
+## My todo list:
 
-- Improve my knowledge with the hashicorp solutions;
+- Collect a few AWS certificates;
+- Improve my knowledge of the hashicorp solutions;
 
 ##
 
