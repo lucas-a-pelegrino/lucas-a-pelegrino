@@ -4,13 +4,13 @@ Backend software engineer with six years of experience, having developed over tw
 
 ## What am I doing recently?
 
-- 💻 Currently working as Sr. Software Engineer at [https://nomadglobal.com](Nomad)
-- Learning Go!
+- Currently working as Sr. Software Engineer at [Nomad](https://nomadglobal.com)
+- Learning Go
 
 ## My todo list:
 
-- Collect a few AWS certificates;
-- Improve my knowledge of the hashicorp solutions;
+- Collect a few AWS certificates
+- Improve my knowledge of the hashicorp solutions
 
 ##
 
