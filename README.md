@@ -5,7 +5,6 @@ Backend software engineer with six years of experience, having developed over tw
 ## What am I doing recently?
 
 - Currently working as Sr. Software Engineer at [Nomad](https://nomadglobal.com)
-- Learning Go
 
 ## My todo list:
 
