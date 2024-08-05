@@ -4,7 +4,7 @@ Backend software engineer with six years of experience, having developed over tw
 
 ## What am I doing recently?
 
-- Currently working as Sr. Software Engineer at [Nomad](https://www.nomadglobal.com/en) 💰
+- Currently working as Sr. Software Engineer at [Rocket.chat](https://rocket.chat)
 
 ## My todo list:
 
