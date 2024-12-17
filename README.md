@@ -1,6 +1,6 @@
 ## Sup!
 
-Backend software engineer with six years of experience, having developed over twenty high-quality applications. Excellent problem-solving skills, teamwork driven, and I'm always aiming to do my best work.
+I'm a backend focused software engineer with more than seven years of experience, having developed over twenty high-quality, scalable applications for multiple industry sectors.
 
 ## What am I doing recently?
 
@@ -8,9 +8,8 @@ Backend software engineer with six years of experience, having developed over tw
 
 ## My todo list:
 
-- Collect a few AWS certificates
-- Improve my knowledge of the hashicorp solutions
-
+- Improve architectural and infrastructure knowledge.
+  
 ##
 
 <div align="center">
